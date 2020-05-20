@@ -1,3 +1,0 @@
-# Propósito #
-
-El principal propósito del proyecto es tener unas bases solidas para implementar una buenas estrategia, esto con el fin de contribuir de una buena manera al ámbito laboral para de esta manera poder ayudar a solventar alguna falencia presentada. Mediante un análisis se van a identificar estas falencias para diseñar estrategias que permitan fortalecer el espacio de trabajo y así ayudar a un mejor desarrollo del proceso productivo.
