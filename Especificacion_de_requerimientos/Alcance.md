@@ -1,20 +1,20 @@
-## **Alcance**
+# **Alcance**
+
+Este proyecto est√° con base al desarrollo de un software y apartir de necesidad de nuestro cliente, lo primordial es darle el mejor funcionamiento al negocio de nuestro cliente que se completar√° con una serie de fases para su desarrollo y funcionamiento.
+El proyecto se dirige al sector productivo y de servicio, en los cuales se busca sistematizar procesos o
+actividades del quehacer diario de los usuarios, En la mayor√≠a de los casos para el √≥ptimo funcionamiento del sistema se requiere de mejoras en la infraestructura tecnol√≥gica y adaptaci√≥n de los usuarios al sistema,Tambi√©n la empresa u
+organizaci√≥n seg√∫n sea su situaci√≥n ha de invertir en la infraestructura tecnologica que garantice un √≥ptimo
+funcionamiento del sistema.
 
 
-Este proyecto est· en base al desarrollo de un software y en base a la necesidad de nuestro cliente, lo primordial es darle mejor funcionamiento al negocio de nuestro cliente que se completar· con una serie de fases para su Ûptimo desarrollo y funcionamiento.
+**Fases del proyecto**
 
-## **Fases del proyecto:**
+* **An√°lisis:** viabilidad de acuerdo a plazos, costo, y calidad.
 
-* **An·lisis:** viabilidad de acuerdo a plazos, coste, calidad y An·lisis del alcance del proyecto.
+* **planificaci√≥n:** establecer c√≥mo nuestro equipo de trabajo deber√° cumplir las restricciones de prestaciones y definici√≥n del plan de proyecto.
 
+* **Ejecuci√≥n:** Asignaci√≥n de las tareas a cada una de los integrantes de nuestro equipo, ejecuci√≥n de todo el planificado anteriormente y An√°lisis de los resultados con respecto a las iniciales. Nuestro  objetivo est√° en enfocar los resultados siempre al lado positivo, y permitir la resoluci√≥n inmediata de los problemas quir√∫rgicos durante la ejecuci√≥n del proyecto. Nuestro meta es permitir que reconozca el √©xito y el funcionamiento √≥ptimo de nuestro software.
 
-* **planificaciÛn :** establecer cÛmo nuestro equipo de trabajo deber· satisfacer las restricciones de prestaciones y definiciÛn del plan de proyecto.
-
-
-* **EjecuciÛn:** AsignaciÛn de las tareas a cada una de los integrantes de nuestro equipo, ejecuciÛn de todo los planificado anteriormente y An·lisis de los resultados con respecto a las estimaciones iniciales.
-Nuestro objetivo est· en enfocar los resultados siempre al lado positivo, y permitir la resoluciÛn inmediata de los problemas surgidos durante la ejecuciÛn del proyecto. Nuestra meta es permitir que se reconozca el Èxito, y el funcionamiento optimo de nuestro software.
+* **Planificaci√≥n de recursos:** Por ahora necesitamos medir la magnitud del trabajo para realizar y determinar el costo por funcionalidad de nuestro software.
 
 
-
-* **PlanificaciÛn de recursos:** 
-Paor ahora necesitamos medir la magnitud del trabajo a realizar y determinar el costo por funcionalidad de nuestro software.
