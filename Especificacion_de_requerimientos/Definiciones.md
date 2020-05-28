@@ -46,7 +46,11 @@ relacionales.
 *Tabla.*- Entidad que posee campos físicos primarios secundarios
 
 
-#ACRÓNIMOS
+
+
+# ACRÓNIMOS
+
+
 
 **DBA.**- Es aquella persona que tiene el control central del sistema de base de datos.
 
@@ -68,9 +72,25 @@ pueden activarse bien a través del teclado o con el ratón.
 su nombre.
 
 
-#ABREVIATURAS
+
+
+# ABREVIATURAS
+
 
 **HW:** Hardware
+
 **SW:** Software
+
 **Sr:** Señor
+
 **Sra:** Señora
+
+**Cel:** celular
+
+**cód:** código
+
+**Dir:** director
+
+**C. P:** código postal
+
+**art:** artículo
